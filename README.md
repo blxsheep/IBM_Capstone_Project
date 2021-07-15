@@ -8,7 +8,7 @@ Now that you have been equipped with the skills and the tools to use location da
 
 
 Things I learn from this project :
-- How to scraping data from webpage.
+- How to scrape data from webpage.
 - How to explore data .
 - How to prepare data to fitting model.
 - How to choose suitable model .
