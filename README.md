@@ -20,3 +20,4 @@ Other note :
 - If you want to see map download notebook
 - If you want to see none - technical conclusion open presentation.pdf(or powerpoint if you want to download).
 - scraping and merging data had done in seperate notebook to make main notebook look cleaner but if you want to see it open Web_scraping.ipynb and merge_table.ipynb.
+- main notebook name Capstone_project.ipynb. 
